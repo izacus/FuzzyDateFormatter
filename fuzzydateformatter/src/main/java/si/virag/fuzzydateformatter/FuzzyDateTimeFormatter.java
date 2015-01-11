@@ -16,6 +16,12 @@ public class FuzzyDateTimeFormatter {
     private final static int MONTHS  =  4 * WEEKS;
     private final static int YEARS   = 12 * MONTHS;
 
+    /**
+     * Returns a properly formatted fuzzy string representing time ago
+     * @param context   Context
+     * @param date      Absolute date of the event
+     * @return          Formatted string
+     */
     public static String getTimeAgo(Context context, Date date) {
         int beforeSeconds = (int) (date.getTime() / 1000);
         int nowSeconds = (int) (Calendar.getInstance().getTimeInMillis() / 1000);
