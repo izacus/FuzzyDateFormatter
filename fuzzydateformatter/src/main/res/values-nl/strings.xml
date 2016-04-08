@@ -11,6 +11,7 @@
     </plurals>
     <plurals name="fuzzydatetime__hours_ago">
         <item quantity="one">%d uur gelden</item>
+        <item quantity="other">%d uur gelden</item>
     </plurals>
     <plurals name="fuzzydatetime__days_ago">
         <item quantity="one">%d dag geleden</item>
@@ -26,5 +27,6 @@
     </plurals>
     <plurals name="fuzzydatetime__years_ago">
         <item quantity="one">%d jaar geleden</item>
+        <item quantity="other">%d jaar gelden</item>
     </plurals>
 </resources>
