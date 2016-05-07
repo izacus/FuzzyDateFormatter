@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="fuzzydatetime__now">剛剛</string>
+
     <plurals name="fuzzydatetime__seconds_ago">
         <item quantity="one">%d 秒前</item>
         <item quantity="other">%d 秒前</item>

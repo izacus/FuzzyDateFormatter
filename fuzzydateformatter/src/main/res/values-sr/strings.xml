@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="fuzzydatetime__now">sada</string>
+
     <plurals name="fuzzydatetime__seconds_ago">
         <item quantity="one">pre %d sekunde</item>
         <item quantity="two">pre %d sekunde</item>

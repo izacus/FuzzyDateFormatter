@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="fuzzydatetime__now">только что</string>
+
     <plurals name="fuzzydatetime__seconds_ago">
         <item quantity="zero">только что</item>
         <item quantity="one">%d секунду назад</item>

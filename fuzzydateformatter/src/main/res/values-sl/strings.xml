@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="fuzzydatetime__now">pravkar</string>
+
     <plurals name="fuzzydatetime__seconds_ago">
         <item quantity="one">pred %d sekundo</item>
         <item quantity="two">pred %d sekundama</item>
