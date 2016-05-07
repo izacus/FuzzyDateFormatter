@@ -9,6 +9,23 @@ Calendar -> "6 minutes ago"
 
 Contributions and translations welcome.
 
+Usage
+-------
+
+```groovy
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile 'si.virag:fuzzydateformatter:1.1.0'
+}
+```
+
+```java
+Date date = new Date();
+String text = FuzzyDateTimeFormatter.getTimeAgo(context, date);
+```
 
 License
 -------
