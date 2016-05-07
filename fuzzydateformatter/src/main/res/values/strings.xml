@@ -29,4 +29,33 @@
         <item quantity="one">%d year ago</item>
         <item quantity="other">%d years ago</item>
     </plurals>
+
+    <plurals name="fuzzydatetime__seconds_future">
+        <item quantity="one">%d second left</item>
+        <item quantity="other">%d seconds left</item>
+    </plurals>
+    <plurals name="fuzzydatetime__minutes_future">
+        <item quantity="one">%d minute left</item>
+        <item quantity="other">%d minutes left</item>
+    </plurals>
+    <plurals name="fuzzydatetime__hours_future">
+        <item quantity="one">%d hour left</item>
+        <item quantity="other">%d hours left</item>
+    </plurals>
+    <plurals name="fuzzydatetime__days_future">
+        <item quantity="one">%d day left</item>
+        <item quantity="other">%d days left</item>
+    </plurals>
+    <plurals name="fuzzydatetime__weeks_future">
+        <item quantity="one">%d week left</item>
+        <item quantity="other">%d weeks left</item>
+    </plurals>
+    <plurals name="fuzzydatetime__months_future">
+        <item quantity="one">%d month left</item>
+        <item quantity="other">%d months left</item>
+    </plurals>
+    <plurals name="fuzzydatetime__years_future">
+        <item quantity="one">%d year left</item>
+        <item quantity="other">%d years left</item>
+    </plurals>
 </resources>
